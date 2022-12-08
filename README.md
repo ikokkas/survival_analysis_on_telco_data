@@ -33,7 +33,7 @@ a deeper understanding of the data. In this section I
 * and decide how should I do the data 
   cleaning.
 
-###2) Feature Engineering :wrench: :hammer: :computer:
+### 2) Feature Engineering :wrench: :hammer: :computer:
 **Feature engineering** is the process of transforming raw data into features that can be 
 used in machine learning and statistical learning algorithms. It is an essential step in 
 this process because the quality of the features that are used to train a model can 
