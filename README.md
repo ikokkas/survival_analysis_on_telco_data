@@ -23,9 +23,9 @@ the event of interest and to make predictions about future events.
 
 The project consists of 3 sections/steps that are explained below
 
-##Sections
+## Sections
 
-###1) Exploratory Data Analysis (EDA) :mag_right: :bar_chart:
+### 1) Exploratory Data Analysis (EDA) :mag_right:
 **Exploratory data analysis (EDA)** is an essential step in the data analysis process 
 because it helps to identify potential issues or anomalies in the data and to develop 
 a deeper understanding of the data. In this section I 
@@ -33,7 +33,11 @@ a deeper understanding of the data. In this section I
 * and decide how should I do the data 
   cleaning.
 
+<<<<<<< HEAD
+### 2) Feature Engineering :wrench:
+=======
 ### 2) Feature Engineering :wrench: :hammer: :computer:
+>>>>>>> 947caad06a5b588fe50722250e683b3604d3dd69
 **Feature engineering** is the process of transforming raw data into features that can be 
 used in machine learning and statistical learning algorithms. It is an essential step in 
 this process because the quality of the features that are used to train a model can 
@@ -43,7 +47,7 @@ have a significant impact on its performance. In this section I
 * drop some rows with many NULL values 
 * and drop some dummy variables since their info can be derived from other variables.
 
-###3) Fitting Survival Analysis Methods :bulb: :tada: :sparkler:
+### 3) Fitting Survival Analysis Methods :bulb:
 The most common methods for Survival Analysis is the **Kaplan Meier Curves** and the 
 **Cox Proportional Hazards model**
 
